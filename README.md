@@ -3,6 +3,9 @@ We are sharing with the research community our pre-computed brain strain respons
 # The pre-computed brain strain response atlas (pcBRA-strain):
 The original pcBRA-strain encodes the peak maximum principal strain at every element, which requires an explicit definition of the element structure. To facilitate the exchange of data and results, the pcBRA-strain was spatially resampled to generate a set of 3D grid data points encoded with strain values, analogous to stacked medical images such as MRI or CT. This allows direct application of many existing visualization and analysis routines, without the need for element definition.
 
+![](https://github.com/Jilab-biomechanics/Pre-computed-Brain-Response-Atlas--pcBRA/blob/main/figures/2.jpg)
+![](https://github.com/Jilab-biomechanics/Pre-computed-Brain-Response-Atlas--pcBRA/blob/main/figures/3.jpg)
+
 Please retrieve the strain pcBRA here: https://drive.google.com/drive/folders/1HkyW-nB8eLt0-z5qCKsJJi8Plmz11KQC?usp=sharing
 
 # The pre-computed brain pressure response atlas (pcBRA-pressure):
