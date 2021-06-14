@@ -8,6 +8,8 @@ Please retrieve the strain pcBRA here: https://drive.google.com/drive/folders/1H
 # The pre-computed brain pressure response atlas (pcBRA-pressure):
 The three pre-computed pressure responses are shown below. They are linearly superimposed to obtain whole-brain pressure in an arbitrary translational head impact. 
 
+![](https://github.com/Jilab-biomechanics/Pre-computed-Brain-Response-Atlas--pcBRA/blob/main/figures/1.jpg)
+
 Please retrieve the pressure pcBRA here: https://drive.google.com/drive/folders/1HkyW-nB8eLt0-z5qCKsJJi8Plmz11KQC?usp=sharing
 
 ## Citation:
