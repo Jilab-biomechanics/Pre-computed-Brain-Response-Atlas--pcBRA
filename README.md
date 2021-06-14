@@ -6,7 +6,7 @@ The original pcBRA-strain encodes the peak maximum principal strain at every ele
 Please retrieve the strain pcBRA here: https://drive.google.com/drive/folders/1HkyW-nB8eLt0-z5qCKsJJi8Plmz11KQC?usp=sharing
 
 # The pre-computed brain pressure response atlas (pcBRA-pressure):
-The three pre-computed pressure responses are shown below. They are linearly superimposed to obtain whole-brain pressure in an arbitrary translational head impact. Here is the data (right click to save, may need to rename to “.mat” extension) and demo program in Matlab.
+The three pre-computed pressure responses are shown below. They are linearly superimposed to obtain whole-brain pressure in an arbitrary translational head impact. 
 
 Please retrieve the pressure pcBRA here: https://drive.google.com/drive/folders/1HkyW-nB8eLt0-z5qCKsJJi8Plmz11KQC?usp=sharing
 
