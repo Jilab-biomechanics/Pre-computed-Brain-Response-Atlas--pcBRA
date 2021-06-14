@@ -8,6 +8,8 @@ Please retrieve the strain pcBRA here: https://drive.google.com/drive/folders/1H
 # The pre-computed brain pressure response atlas (pcBRA-pressure):
 The three pre-computed pressure responses are shown below. They are linearly superimposed to obtain whole-brain pressure in an arbitrary translational head impact. Here is the data (right click to save, may need to rename to “.mat” extension) and demo program in Matlab.
 
+Please retrieve the pressure pcBRA here: https://drive.google.com/drive/folders/1HkyW-nB8eLt0-z5qCKsJJi8Plmz11KQC?usp=sharing
+
 ## Citation:
 Please cite the following studies for the CNN data tool for brain strain pattern (Ref 1), our previous CNN  tool for peak brain strain (Ref 2), the model (Ref 3) if you apply in your study:
 Zhao, Wei, et al. "Performance evaluation of a pre-computed brain response atlas in dummy head impacts." Annals of biomedical engineering 45.10 (2017): 2437-2450.
